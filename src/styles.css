@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0d1b2a;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin: 0;
+}
